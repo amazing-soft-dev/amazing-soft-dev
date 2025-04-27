@@ -75,5 +75,6 @@
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/amazing-soft-dev">Amazing</a>
-  ![](cat-typing.gif)
+  <img align="right" alt="GIF" src="./cat-typing.gif"/>
+  <img align="left" alt="GIF" src="./cat-typing.gif"/>
 </p>
