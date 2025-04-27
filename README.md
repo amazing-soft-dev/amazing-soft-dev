@@ -39,7 +39,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" margin-left="15px"/>
+<img align="right" alt="GIF" src="./techstack.gif" width="360px" margin-left="15px"/>
 
 ### 🧐 More About Me:
 
@@ -75,6 +75,6 @@
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/amazing-soft-dev">Amazing</a>
-  <img align="right" alt="GIF" src="./cat-typing.gif"/>
-  <img align="left" alt="GIF" src="./cat-typing.gif"/>
+  <img align="right" alt="GIF" src="./cat-typing.gif" width="50px"/>
+  <img align="left" alt="GIF" src="./cat-typing.gif" width="50px"/>
 </p>
