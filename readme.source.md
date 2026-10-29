@@ -169,7 +169,7 @@
 <p align="center">Curious about my work or want to build something together? Take a look at my repositories and get in touch.</p>
 
 ```aura width=150 height=40 link="https://github.com/amazing-soft-dev" inline align=center
-<SocialMediaButton icon="github" text="GitHub" />
+<SocialMediaButton icon="https://cdn.simpleicons.org/github/f5f5f5" text="GitHub" />
 ```
 
 ---
