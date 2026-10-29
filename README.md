@@ -39,6 +39,8 @@
 
 ---
 
+<img align="right" alt="GIF" src="./techstack.gif" width="360px" margin-left="15px"/>
+
 ### 🧐 More About Me:
 
 - 💼 Senior Software Engineer (Full Stack Engineer)
@@ -61,10 +63,12 @@
 
 ### 🏆 GitHub Trophies
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 ---
 
 ### 📊 Activity Graph
+![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=amazing-soft-dev&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 ---
@@ -72,3 +76,5 @@
 <p align="center">
   Made with ❤️ by <a href="https://github.com/amazing-soft-dev">Amazing</a>
 </p>
+  <img align="right" alt="GIF" src="./cat-typing.gif" width="50px"/>
+  <img align="left" alt="GIF" src="./cat-typing.gif" width="50px"/>
