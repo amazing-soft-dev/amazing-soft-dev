@@ -39,7 +39,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="./techstack.gif" width="360px" margin-left="15px"/>
+<img align="right" alt="GIF" src="./t8t7JCqEVO.gif" width="360px" margin-left="15px"/>
 
 ### 🧐 More About Me:
 
@@ -76,5 +76,5 @@
 <p align="center">
   Made with ❤️ by <a href="https://github.com/amazing-soft-dev">Amazing</a>
 </p>
-  <img align="right" alt="GIF" src="./cat-typing.gif" width="50px"/>
-  <img align="left" alt="GIF" src="./cat-typing.gif" width="50px"/>
+  <img align="right" alt="GIF" src="./200w.webp" width="50px"/>
+  <img align="left" alt="GIF" src="./200w.webp" width="50px"/>
